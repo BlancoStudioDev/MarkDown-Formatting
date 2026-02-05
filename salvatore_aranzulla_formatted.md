@@ -1,0 +1,171 @@
+# Trasformare PDF in Word  
+di Salvatore Aranzulla  
+
+Hai bisogno di trasformare PDF in Word, ma sul computer non hai alcun tool adatto allo scopo? Hai cercato di scaricare un programma per convertire i documenti PDF in DOC o DOCX, ma il risultato che hai ottenuto è stato al limite del disastroso? Non disperare. Credo proprio di avere la soluzione al tuo problema. Anzi, più di una soluzione!  
+
+Con questo mio tutorial di oggi, infatti, intendo indicarti tutti quelli che, a mio modesto avviso, rappresentano i più utili e affidabili strumenti per compiere l'operazione in questione, in maniera rapida e indolore, come si suol dire, ma al contempo soddisfacente. Devi sapere che esistono svariati programmi ad hoc per PC e Mac, oltre che servizi online specifici funzionanti direttamente via browser senza dover scaricare e installare nulla sul computer e app appositamente ideate per smartphone e tablet Android, iPhone e iPad. Insomma, come puoi notare tu stesso hai l'imbarazzo della scelta.  
+
+Posso assicurarti che, entro i limiti del possibile, si tratta di soluzioni capaci di mantenere intatta la formattazione dei documenti di origine. Provali e scopri qual è quello che si adatta maggiormente alle tue esigenze. Coraggio, dunque, prenditi giusto qualche minuto di tempo libero solo per te e concentrati sulla consultazione di quanto qui di seguito riportato. Sei pronto? Sì? Bene! Al bando le ciance e procediamo!  
+
+## Indice  
+
+- Informazioni preliminari  
+- Trasformare PDF in Word gratis  
+- Microsoft Word (Windows/macOS)  
+- Doxillion Convertitore di Documenti (Windows/macOS)  
+- Altre soluzioni per trasformare PDF in Word gratis  
+- Trasformare PDF in Word online gratis  
+- PDF Candy  
+- Altre soluzioni per trasformare PDF in Word online gratis  
+- App per trasformare PDF in Word  
+- iLovePDF (Android/iOS/iPadOS)  
+- Altre app per trasformare PDF in Word  
+- Trasformare PDF in Word modificabile gratis  
+
+## Informazioni preliminari  
+
+### Programmi per trasformare PDF in Word  
+
+Prima di entrare nel vivo della guida e, dunque, prima di andarti a spiegare come fare per trasformare PDF in Word, ci sono alcune informazioni preliminari al riguardo che devi conoscere.  
+
+Devi sapere che non tutti i documenti PDF convertiti nei formati DOC o DOCX, ovvero quelli di Word, si possono modificare liberamente. Tutto dipende da come sono stati elaborati in origine i PDF.  
+
+Più precisamente, se i PDF sono stati creati partendo dalla scansione di immagini possono essere editati soltanto aggiungendo nuovi elementi, ma purtroppo non è possibile intervenire direttamente sul testo in essi presenti.  
+
+Se, invece, si tratta di PDF composti da testi, questi si possono editare arbitrariamente, aggiungendo nuovi elementi e modificando quelli già presenti, analogamente a come è possibile fare con qualsiasi documento Word.
+
+Per generare dei documenti PDF con del testo editabile occorre usare la tecnologia OCR (Optical Character Recognition). Nel caso in cui non ne avessi mai sentito parlare, ti informo che si tratta di una tecnologia che permette di effettuare il riconoscimento ottico dei caratteri per rilevare il testo. Per usufruirne, è sufficiente utilizzare programmi, servizi online e app che ne dichiarano in maniera esplicita il supporto.
+
+Trasformare PDF in Word gratis
+
+A questo punto, direi che possiamo finalmente entrare nel vivo della guida e andare a scoprire come fare per trasformare PDF in Word gratis. Qui sotto, dunque, trovi segnalati quelli che, a mio modesto avviso, rappresentano i migliori strumenti della categoria disponibili per PC e Mac
+
+Microsoft Word (Windows/macOS)
+
+Word
+
+Il primo strumento che ti consiglio di adoperare per trasformare PDF in Word è proprio Microsoft Word, il programma di videoscrittura di casa Microsoft, funzionante sia su Windows che su macOS e parte integrante di Microsoft 365. Non tutti lo sanno, ma a partire dalla versione 2013 della suite d'ufficio di casa Redmond consente di importare i PDF, di modificarli (è inclusa una funzione OCR basilare) e di salvarli sotto forma di file DOC o DOCX.
+
+Per utilizzare Microsoft Word bisogna sottoscrivere l'abbonamento a Microsoft 365 (con costi da 7 euro/mese), oppure si può acquistare la classica versione di Office con pagamento una tantum (al costo di 149,99 euro), ma nel primo caso viene offerta una prova gratuita della durata 30 giorni senza obbligo di rinnovo.
+
+Microsoft 365 Personal | 12 mesi | 1 persona | App Office con AI | 1TB...
+Vedi offerta su Amazon
+
+Microsoft 365 Family | 12 mesi | 6 persone | App Office con AI | Fino ...
+Vedi offerta su Amazon
+
+Microsoft Office Home 2024 | Acquisto una tantum | Word, Excel, Powerp...
+Vedi offerta su Amazon
+
+Se sei interessato, puoi pertanto scaricare Microsoft Word in versione di prova gratuita sul tuo computer, se non lo hai già installato, ovviamente.
+
+Ciò detto, per usare Microsoft Word per il tuo scopo, tutto quello che devi fare è avviare il programma selezionando il relativo collegamento presente nel menu Start di Windows o l'icona che si trova nel menu App di macOS.
+
+Quando visualizzi la finestra di Microsoft Word sullo schermo del computer, fai clic sul menu File in alto a sinistra, seleziona la voce Apri da quest'ultimo e apri il file PDF di tuo interesse.
+
+Una volta visibile il documento, fai clic sul pulsante OK per accettare eventuali alterazioni del layout del file, clicca nuovamente sul menu File, seleziona l'opzione Salva con nome da quest'ultimo e salva il documento scegliendo il formato di output che preferisci, il nome da usare e la posizione in cui salvarlo.
+
+Doxillion Convertitore di Documenti (Windows/macOS)
+
+Doxillion Convertitore di Documenti
+
+Un'altra ottima soluzione a cui puoi decidere di rivolgerti per portare a compimento l'operazione oggetto di questo tutorial è **Doxillion Convertitore di Documenti**. Si tratta di un software, compatibile sia con Windows che con macOS, adibito alla conversione di varie tipologie di file, compresi quelli in formato PDF, DOC e DOCX, che ha il grande vantaggio di permettere di agire anche in batch. È gratuito, ma esclusivamente per uso personale.
+
+Per scaricare **Doxillion Convertitore di Documenti** sul tuo computer, visita il relativo sito Internet e premi sul bottone **Scarica ora** se stai usando Windows, oppure su quello **Scarica per Mac** se stai usando macOS.
+
+A download ultimato, se stai utilizzando Windows, apri il file EXE ottenuto e, nella finestra che compare sul desktop, clicca sul pulsante **Sì**. Seleziona poi la voce **I accept the license terms** e clicca sui bottoni **Avanti** e **Saltare tutti**, dopodiché attendi l'avvio automatico del software.
+
+Se stai usando macOS, invece, estrai l'archivio ZIP ottenuto in una cartella a piacere, apri il file DMG al suo interno, clicca sul bottone **Accetto** nella finestra mostrata sulla scrivania e trascina l'icona di **Doxillion Convertitore di Documenti** nella cartella **Applicazioni** del Mac. In seguito, facci clic destro sopra e seleziona la voce **Apri**. Se nel fare ciò compare un errore, consenti l'esecuzione del software andando in **Impostazioni di Sistema**, selezionando la voce **Privacy e sicurezza** e cliccando sul pulsante apposito in fondo al menu. Se possiedi un Mac con chip Apple Silicon, ad esempio M2, e nel compiere questi passaggi ti viene chiesto di installare Rosetta, acconsenti alla cosa, in quanto indispensabile per il suo funzionamento.
+
+Una volta visibile la finestra di **Doxillion Convertitore di Documenti**, a prescindere dal sistema operativo in esecuzione, premi sul bottone **Aggiungi file** in alto a sinistra e seleziona i file PDF presenti sul tuo computer su cui vuoi andare ad agire, oppure trascinali direttamente sulla schermata.
+
+In seguito, indica la posizione in cui desideri salvare i file di output facendo clic sul pulsante **Cartella di output** in basso a destra.
+
+Per concludere, seleziona dal menu a tendina **Formato di output** in basso l'opzione `.doc` o quella `.docx`, premi sul tasto **Impostazioni documento** adiacente per apportare eventuali regolazioni al file finale, clicca sul bottone **Converti** in basso a destra e attendi che la procedura di conversione venga avviata e portata a compimento.
+
+---
+
+**Altre soluzioni per trasformare PDF in Word gratis**
+
+**MacBook**
+
+Nel caso in cui le soluzioni che ti ho già consigliato non ti avessero del tutto convinto, puoi valutare di affidarti ad altre soluzioni grazie alle quali trasformare PDF in Word da computer, come quelle elencate di seguito.
+
+Adobe Acrobat Reader (Windows/macOS) — è il programma ufficiale per creare e modificare PDF reso disponibile da Adobe, l'azienda che si è occupata dello sviluppo del formato in questione. Adobe Acrobat Reader è compatibile sia con Windows che con macOS e funziona come visualizzatore, ma comprende anche tanti strumenti che permettono di apportare modifiche di vario genere ai PDF. Di base è gratuito, ma alcune funzioni sono disponibili solo sottoscrivendo l'abbonamento a pagamento (con costi da 15,85 euro/mese), che si può provare gratis e senza obbligo di rinnovo per 7 giorni.
+
+PDFgear (Windows/macOS) — si tratta di un moderno editor di file PDF per Windows e macOS, tramite cui è possibile agire sui documenti convertendoli in altri formati, compresi DOC e DOCX, dividendoli, ruotandoli ecc. È totalmente gratis.
+
+Wondershare PDFelement (Windows/macOS) — si tratta di un software che permette di visualizzare e modificare i PDF sia su Windows che su macOS, andando ad aggiungervi testi, note, forme, sagome, evidenziazioni ecc. e consentendo di effettuare operazioni di conversione, anche in DOC e DOX. Di base è gratis, ma per avere accesso completo a tutte le funzioni va acquistata la versione a pagamento (con prezzi a partire da 70 euro/6 mesi).
+
+Trasformare PDF in Word online gratis
+
+Non vuoi o non puoi scaricare e installare nuovi programmi sul tuo computer? In tal caso, ti suggerisco di trasformare PDF in Word online, usando degli appositi servizi Web funzionanti da qualsiasi browser e sistema operativo, come quelli che trovi indicati qui sotto.
+
+PDF Candy
+
+PDF Candy
+
+Se necessiti di trasformare PDF in Word e preferisci farlo dal browser, ti invito a rivolgerti a PDF Candy. Si tratta di un servizio Web per intervenire sui PDF in vari modi, anche effettuandone la conversione in file Word. È gratuito, non applica limitazioni particolari per quel che riguarda il peso dei file e la registrazione non è obbligatoria, ma per accedere a tutte le funzioni bisogna sottoscrivere l'abbonamento a pagamento (con costi a partire da 6 euro/mese).
+
+Per utilizzare PDF Candy, visita il relativo sito Web, fai clic sul tasto Aggiungi file e seleziona il file PDF da convertire presente sul tuo dispositivo. In alternativa, puoi trascinare il file direttamente nella finestra del browser, oppure puoi prelevarlo da Google Drive o da Dropbox, premendo clic sul tasto ∨ a destra e selezionando l'opzione che preferisci dal menu proposto.
+
+Completato l'upload, clicca sul tasto Converti in basso a destra e scarica il file finale premendo sul bottone Download file, oppure effettuane l'archiviazione su uno dei servizi di cloud storage supportati scegliendo quello che preferisci dal menu accessibile facendo clci sul tasto ∨.
+
+Altre soluzioni per trasformare PDF in Word online gratis
+
+Inviare più documenti in un unico file
+
+Se cerchi altre soluzioni funzionanti online mediante cui poter trasformare PDF in Word, puoi decidere di affidarti a quelle che trovi nell'elenco sottostante, sono tutte ugualmente valide.
+
+**PDF2Go** — si tratta di un servizio Web che consente di intervenire sui file PDF in vari modi, ad esempio comprimendoli, editandoli, convertendoli in vari formati e anche trasformandoli in documenti Word. Di base è gratis e non è obbligatorio registrarsi, ma ci sono limitazioni riguardo il numero di upload che possono eseguire, la dimensione massima dei file per operazione ecc. che si possono aggirare acquistando appositi crediti (con prezzi a partire da 6,42 euro/mese).
+
+**ZamZar** — si tratta di un celebre convertitore di file online che supporta oltre 1200 formati di file, compresi quelli oggetto di questo tutorial. Si possono caricare elementi con un peso massimo di 50 MB. È gratis e la registrazione non è obbligatoria, ma attivando l'abbonamento a pagamento (con prezzi a partire da 18 dollari/mese) vengono sbloccate funzionalità aggiuntive.
+
+**Convertio** — ottimo servizio online per convertire file che garantisce il supporto a più di 300 formati, tra cui PDF, DOC e DOCX, per cui è possibile trasformare PDF in Word Convertio. È gratis e la registrazione non è obbligatoria, ma non permette di caricare file con un peso maggiore di 100 MB. Per aggirare questo limite e per sbloccare altre funzioni extra va sottoscritto l'abbonamento a pagamento (con prezzi a partire da 9,99 dollari/mese).
+
+---
+
+**App per trasformare PDF in Word**
+
+Preferisci l'uso dei dispositivi mobili a quello del computer e proprio per questo ti piacerebbe che ti indicassi delle app per trasformare PDF in Word per smartphone e tablet Android, iPhone e iPad? Detto, fatto! Le trovi proprio qui sotto.
+
+**iLovePDF (Android/iOS/iPadOS)**
+
+**iLovePDF**
+
+Se cerchi un'app utile per portare a compimento la tua missione odierna, non puoi non provare iLovePDF. Si tratta di una famosa soluzione per Android e iOS/iPadOS, la quale consente di intervenire sui PDF convertendoli in Word e in altre tipologie di documenti, ma anche aggiungendo firme, watermark, numerando le pagine ecc. È gratis, ma propone acquisti in-app (al costo base di 5,99 euro/mese) per attivare l'abbonamento Premium e sbloccare funzioni extra.
+
+Per scaricare e installare iLovePDF sul tuo dispositivo, se stai usando Android, accedi alla relativa sezione del Play Store e premi il tasto Installa (puoi anche rivolgerti a store alternativi), mentre se stai usando iOS/iPadOS, accedi alla relativa sezione dell'App Store, premi sul tasto Ottieni e autorizza il download tramite una doppia pressione del tasto laterale e mediante Face ID, Touch ID o password dell'ID Apple.
+
+In seguito, avvia iLovePDF selezionando l'icona aggiunta alla home screen del dispositivo o alla schermata in cui sono raggruppate le icone di tutte le applicazioni installate.
+
+Quando visualizzi la schermata principale dell'app, per trasformare PDF in Word iLovePDF, recati nella Strumenti facendo tap sull'apposita voce che trovi sulla barra in basso.
+
+A questo punto, seleziona l'opzione PDF in Word, indica la posizione e il file PDF da convertire, sfiora il bottone PDF in Word e aspetta l'avvio e il completamento del processo di conversione.
+
+Per concludere, fai tap sul bottone Vai al file, poi su quello ⋮ su Android o su quello … su iOS/iPadOS in corrispondenza del nome del file di output e scegli se aprire il file, condividerlo altrove ecc. tramite il menu proposto.
+
+---
+
+**Altre app per trasformare PDF in Word**
+
+**iPhone**
+
+Vuoi fare la conoscenza di altre app per smartphone e tablet che puoi usare per trasformare PDF in Word? Bene… le trovi nell'elenco seguente. Son tutte ugualmente valide, hai la mia parola.
+
+- **File Converter (Android/iOS/iPadOS)** — è una soluzione che, come lascia intendere lo stesso nome, permette di convertire ogni genere di file. Funziona sia con Android che con iOS/iPadOS ed è gratis, ma vengono proposti acquisti in-app (al prezzo base di 1,49 euro) per accedere a tutte le funzioni.
+- **Smallpdf (Android/iOS/iPadOS)** — app per Android e iOS/iPadOS concepita per lavorare specificamente sui PDF e che integra anche uno strumento per la conversione in DOC e DOCX. Di base è gratis, ma sono proposti acquisti in-app (con prezzi a partire da 8,99 euro/mese) per avere accesso completo a tutte le funzionalità.
+- **Il Document Converter (iOS/iPadOS)** – soluzione designata specificamente per iOS/iPadOS, la quale permette di convertire tutti i più diffusi formati di documenti, compresi PDF e file di Word. È gratuita, ma per avere accesso completo a tutte le funzioni bisogna effettuare acquisti in-app (con prezzi da 2,99 euro).
+
+---
+
+**Trasformare PDF in Word modificabile gratis**
+
+Come aprire i file PDF protetti da password
+
+In alcuni casi, strumenti come quelli di cui ti ho parlato nel corso di questo tutorial non sono in grado di trasformare PDF in Word modificabile gratis, questo perché, come ti dicevo, i PDF sono stati digitalizzati in maniera errata, ossia sono stati trattati come immagini anziché come testi e quindi i caratteri di scrittura contenuti al loro interno non sono “leggibili” dai comuni editor di testo.
+
+Per ovviare a questo problema, puoi valutare di ricorrere all'uso di strumenti specifici per trasformare PDF in Word OCR o ancor meglio per trasformare PDF in Word gratis OCR.
+
+In qualità di affiliati Amazon, riceviamo un guadagno dagli acquisti idonei effettuati tramite i link presenti sul nostro sito.
+
